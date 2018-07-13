@@ -1,7 +1,7 @@
   /**
 	* 时间格式汇总
 	* All Rights Reserved. 
-	* this.checkEmail()
+	* this.checkEmail()2018/07/13
     */
 
 module TimeFormatUtils {
